@@ -1,6 +1,6 @@
 ### Hi there, I'm Lior Agami
 
-[![linkedin](http://linkedin.com/in/lior-agami/)](http://linkedin.com/in/lior-agami/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/spotify.svg" alt="Spotify Playing" width="350" />](http://linkedin.com/in/lior-agami/)
 
 ## I'm a Husband, Father, Developer, and MoreFun!!
 
