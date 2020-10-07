@@ -58,7 +58,7 @@
 - 🎥 Participated in a 12 episodes documentary series about Golani Combat Soldiers
 - 👽 Used to fell asleep with the tv playing shopping channel
 
-### Lets Connect:
+### Let's Connect:
 
 [<img width="25px" align="left" alt="lior agami | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img width="25px" align="left" alt="lior agami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
