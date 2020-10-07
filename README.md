@@ -1,6 +1,6 @@
 ### Hi there, I'm Lior Agami
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/spotify.svg" alt="Spotify Playing" width="350" />](http://linkedin.com/in/lior-agami/)
+[<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" alt="linkedin" width="350" />](http://linkedin.com/in/lior-agami/)
 
 ## I'm a Husband, Father, Developer, and MoreFun!!
 
@@ -16,29 +16,29 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/spotify.svg" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn)
+[<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/spotify.svg" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn)
 
 ### Lets Connect:
 
-[<img align="left" alt="lior agami | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lior agami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img width="25px" align="left" alt="lior agami | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img width="25px" align="left" alt="lior agami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/css3.svg" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg" />]
-[<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/typescript.svg" />]
-[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angular.svg" />]
-[<img align="left" alt="angularJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angularjs.svg" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/react.svg" />]
-[<img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/php.svg" />]
-[<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/laravel.svg" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mysql.svg" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/git.svg" />]
+[<img width="25px" align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg" />]
+[<img width="25px" align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/css3.svg" />]
+[<img width="25px" align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
+[<img width="25px" align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg" />]
+[<img width="25px" align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/typescript.svg" />]
+[<img width="25px" align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angular.svg" />]
+[<img width="25px" align="left" alt="angularJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angularjs.svg" />]
+[<img width="25px" align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/react.svg" />]
+[<img width="25px" align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/php.svg" />]
+[<img width="25px" align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/laravel.svg" />]
+[<img width="25px" align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mysql.svg" />]
+[<img width="25px" align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/git.svg" />]
 
 
 <br />
