@@ -16,8 +16,8 @@
 
 ### Spotify Playing 🎧
 
-[<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/spotify.svg" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn)
-<iframe src="https://open.spotify.com/embed/track/6DCZcSspjsKoFjzjrWoCdn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/spotify.svg" alt="Spotify Playing" width="350" />](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn?si=RKVGIoGkRuyDtpTxKPfWjQ)
+
 ### Lets Connect:
 
 [<img width="25px" align="left" alt="lior agami | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
