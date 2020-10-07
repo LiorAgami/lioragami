@@ -27,22 +27,22 @@
 
 ### Languages and Tools:
 
-[<img width="25px" align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg" />]
-[<img width="25px" align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/css3.svg" />]
-[<img width="25px" align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img width="25px" align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg" />]
-[<img width="25px" align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/typescript.svg" />]
-[<img width="25px" align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angular.svg" />]
-[<img width="25px" align="left" alt="angularJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angularjs.svg" />]
-[<img width="25px" align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/react.svg" />]
-[<img width="25px" align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/php.svg" />]
-[<img width="25px" align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/laravel.svg" />]
-[<img width="25px" align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mysql.svg" />]
-[<img width="25px" align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/git.svg" />]
+[<img width="25px" align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/html5.svg" />
+[<img width="25px" align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/css3.svg" />
+[<img width="25px" align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/sass.svg" />
+[<img width="25px" align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg" />
+[<img width="25px" align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/typescript.svg" />
+[<img width="25px" align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angular.svg" />
+[<img width="25px" align="left" alt="angularJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angularjs.svg" />
+[<img width="25px" align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/react.svg" />
+[<img width="25px" align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/php.svg" />
+[<img width="25px" align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/laravel.svg" />
+[<img width="25px" align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mysql.svg" />
+[<img width="25px" align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/git.svg" />
 
 
 <br />
-<br /> --> -->
+<br />
 
 [instagram]: https://www.instagram.com/lioragami_/
 [linkedin]: http://linkedin.com/in/lior-agami/
