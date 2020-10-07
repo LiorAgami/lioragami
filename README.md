@@ -1,6 +1,6 @@
 ### Hi there, I'm Lior Agami
 
-[![Website](http://linkedin.com/in/lior-agami/)](http://linkedin.com/in/lior-agami/)
+[![linkedin](http://linkedin.com/in/lior-agami/)](http://linkedin.com/in/lior-agami/)
 
 ## I'm a Husband, Father, Developer, and MoreFun!!
 
