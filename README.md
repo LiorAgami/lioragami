@@ -9,7 +9,7 @@
 - 💈 &nbsp;&nbsp;Men's Barber
 - 🎸 Metallica's best fan (probably good music of any kind)
 - 🏂 Pro snowboarder (at least I'd like to think..)
-- 🎮 X-Gamer - family you know.. (BTW, owned the 1st playstation1 in israel)
+- 🎮 X-Gamer - family you know.. (BTW, owned one of the firsts PS1's in israel )
 - 🎼 Plays a guitar and sings as well
 - 🎥 Participated in a 12 episodes documentary series about Golani Combat Soldiers
 - 👽 Used to fell asleep with the tv playing shopping channel
