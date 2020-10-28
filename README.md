@@ -1,4 +1,4 @@
-### Hi there, I'm Lior Agami [<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" alt="linkedin" width="350" />](http://linkedin.com/in/lior-agami/)
+### Hi there, I'm Lior Agami :)
 
 ## I'm a Husband, Father, Developer, and MoreFun!!
 
@@ -39,3 +39,4 @@
 
 [instagram]: https://www.instagram.com/lioragami_/
 [linkedin]: http://linkedin.com/in/lior-agami/
+[website]: http://lior-dev.com/
