@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Father, Developer, and MoreFun!!
 
-- 🤖 I'm a very passionate & enthusiastic Developer
+- 🤖 I'm passionate about everything related to web development
 - 💪 GYM addict
 - 💈 &nbsp;&nbsp;Men's Barber
 - 🎸 Metallica's best fan
