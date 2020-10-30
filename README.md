@@ -41,4 +41,4 @@
 
 [instagram]: https://www.instagram.com/lioragami_/
 [linkedin]: http://linkedin.com/in/lior-agami/
-[website]: http://lior-dev.com/
+[website]: https://lior-dev.com/
