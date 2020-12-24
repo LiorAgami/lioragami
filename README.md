@@ -13,9 +13,9 @@
 
 ### Let's Connect:
 
-[<img width="25px" align="left" alt="lior agami | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img width="25px" align="left" alt="lior agami | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img width="25px" align="left" alt="lior agami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img width="25px" align="left" alt="lior agami | Instagram" width="22px" src="https://svgsilh.com/svg/1873373.svg" />][website]
+[<img width="25px" align="left" alt="lior agami | Website" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />][website]
 
 
 <br />
