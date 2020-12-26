@@ -1,6 +1,6 @@
 ### Hi there, I'm Lior Agami :)
 
-## I'm a Husband, Father, Developer, and MoreFun!!
+## I'm a husband, father, developer, and the list goes on!!
 
 - 🤖 I'm passionate about everything related to web development
 - 💪 GYM addict
@@ -17,6 +17,8 @@
 [<img width="25px" align="left" alt="lior agami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img width="25px" align="left" alt="lior agami | Website" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />][website]
 
+Find me on Medium: 
+https://lioragami.medium.com/
 
 <br />
 
