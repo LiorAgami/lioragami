@@ -16,8 +16,9 @@
 [<img width="25px" align="left" alt="lior agami | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img width="25px" align="left" alt="lior agami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img width="25px" align="left" alt="lior agami | Website" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />][website]
+<br />
 
-Find me on Medium: 
+U can find me on Medium: 
 https://lioragami.medium.com/
 
 <br />
