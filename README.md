@@ -6,8 +6,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-lioragami4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lioragami4@gmail.com)](mailto:lioragami4@gmail.com)
 
 I am Lior Agami.
+
 A Full-stack Web Developer, Living in Tirat-carmel(IL).
+
 Coding all day, all night.
+
 In between, I'm also a father & a loving husband ❤.
 
 ## 👯 Communities
