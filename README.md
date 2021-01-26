@@ -1,4 +1,4 @@
-<h2> Hi 𝐭𝐡𝐞𝐫𝐞, <developers />! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi 𝐭𝐡𝐞𝐫𝐞, fellow '<developers />'! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -33,14 +33,14 @@ I am Lior Agami. I am a Fullstack Web Developer, Living in Tirat-carmel(IL).
 - 🎯 Portfolio site: [Portfolio](https://lior-dev.com).
 
 ## Get to know me better!! 😄
-- 🤖 I'm passionate about everything related to web development
-- 💪 GYM addict
-- 💈 &nbsp;&nbsp;Men's Barber
-- 🎸 Metallica's best fan
-- 🏂 Pro snowboarder (at least I'd like to think..)
-- 🎼 Plays a guitar and sings as well
+- 🤖 I'm passionate about everything related to web development.
+- 💪 GYM addict.
+- 💈 &nbsp;&nbsp;Men's Barber.
+- 🎸 Metallica's best fan.
+- 🏂 Pro snowboarder (at least I'd like to think..).
+- 🎼 Plays a guitar and sings as well.
 - 🎮 X-Gamer - family you know..
-- 👽 Used to fell asleep with the tv playing shopping channel
+- 👽 Used to fell asleep with the tv playing shopping channel.
 
 ![Lior's github stats](https://github-readme-stats.vercel.app/api?username=lioragami&hide=["issues"]&show_icons=true)
 
