@@ -5,7 +5,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lioragami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lior-agami/)](https://www.linkedin.com/in/lior-agami/) [![Medium Badge](https://img.shields.io/badge/-lioragami-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://lioragami.medium.com/)](https://lioragami.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-lioragami4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lioragami4@gmail.com)](mailto:lioragami4@gmail.com)
 
-I am Lior Agami. I am a Fullstack Web Developer, Living in Tirat-carmel(IL).
+I am Lior Agami. I
+A Full-stack Web Developer, Living in Tirat-carmel(IL).
+Coding all day, all night.
+In between, I'm also a father & a loving husband ❤.
 
 ## 👯 Communities
 * Currently writing posts and articles on LinkedIn & Medium.
