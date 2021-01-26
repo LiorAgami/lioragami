@@ -31,8 +31,7 @@ In between, I'm also a father & a loving husband ❤.
 <img width="25px" align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img width="25px" align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 
-
-
+<br/>
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
