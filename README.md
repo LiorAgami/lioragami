@@ -5,10 +5,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lioragami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lior-agami/)](https://www.linkedin.com/in/lior-agami/) [![Medium Badge](https://img.shields.io/badge/-lioragami-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://lioragami.medium.com/)](https://lioragami.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-lioragami4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lioragami4@gmail.com)](mailto:lioragami4@gmail.com)
 
-I am Lior Agami. I am a Fullstack Developer, Living in Tirat-carmel(IL).
+I am Lior Agami. I am a Fullstack Web Developer, Living in Tirat-carmel(IL).
 
 ## 👯 Communities
-* Currently writing on posts and articles on LinkedIn & Medium.
+* Currently writing posts and articles on LinkedIn & Medium.
 
 ## ⚡ Technologies
 <img width="25px" align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angular.svg" />
@@ -26,9 +26,10 @@ I am Lior Agami. I am a Fullstack Developer, Living in Tirat-carmel(IL).
 <img width="25px" align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 
 
+
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://lioragami.medium.com/).
+- 💬 Ask me about anything and everything.
+- 📫 Read my blogs: [Lior's Blog](https://lioragami.medium.com/).
 - 🎯 Portfolio site: [Portfolio](https://lior-dev.com).
 
 ## Get to know me better!! 😄
