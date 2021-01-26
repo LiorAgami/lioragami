@@ -1,29 +1,16 @@
-### Hi there, I'm Lior Agami :)
+<h2> Hi 𝐭𝐡𝐞𝐫𝐞, <developers />! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-## I'm a husband, father, developer, and the list goes on!!
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-- 🤖 I'm passionate about everything related to web development
-- 💪 GYM addict
-- 💈 &nbsp;&nbsp;Men's Barber
-- 🎸 Metallica's best fan
-- 🏂 Pro snowboarder (at least I'd like to think..)
-- 🎼 Plays a guitar and sings as well
-- 🎮 X-Gamer - family you know..
-- 👽 Used to fell asleep with the tv playing shopping channel
+[![Linkedin Badge](https://img.shields.io/badge/-lioragami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lior-agami/)](https://www.linkedin.com/in/lior-agami/) [![Medium Badge](https://img.shields.io/badge/-lioragami-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://lioragami.medium.com/)](https://lioragami.medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-lioragami4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lioragami4@gmail.com)](mailto:lioragami4@gmail.com)
 
-### Let's Connect:
+I am Lior Agami. I am a Fullstack Developer, Living in Tirat-carmel(IL).
 
-[<img width="25px" align="left" alt="lior agami | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img width="25px" align="left" alt="lior agami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img width="25px" align="left" alt="lior agami | Website" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" />][website]
-<br />
+## 👯 Communities
+* Currently writing on posts and articles on LinkedIn & Medium.
 
-U can find me on Medium: 
-https://lioragami.medium.com/
-
-<br />
-
-### Languages and Tools:
+## ⚡ Technologies
 <img width="25px" align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angular.svg" />
 <img width="25px" align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img width="25px" align="left" alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
@@ -39,9 +26,22 @@ https://lioragami.medium.com/
 <img width="25px" align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 
 
-<br />
-<br />
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 📫 Read my blogs: [Harsh Blog](https://lioragami.medium.com/).
+- 🎯 Portfolio site: [Portfolio](https://lior-dev.com).
 
-[instagram]: https://www.instagram.com/lioragami_/
-[linkedin]: http://linkedin.com/in/lior-agami/
-[website]: https://lior-dev.com/
+## Get to know me better!! 😄
+- 🤖 I'm passionate about everything related to web development
+- 💪 GYM addict
+- 💈 &nbsp;&nbsp;Men's Barber
+- 🎸 Metallica's best fan
+- 🏂 Pro snowboarder (at least I'd like to think..)
+- 🎼 Plays a guitar and sings as well
+- 🎮 X-Gamer - family you know..
+- 👽 Used to fell asleep with the tv playing shopping channel
+
+![Lior's github stats](https://github-readme-stats.vercel.app/api?username=lioragami&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lioragami.lioragami)
+
