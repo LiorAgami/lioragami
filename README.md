@@ -29,7 +29,7 @@ I am Lior Agami. I am a Fullstack Web Developer, Living in Tirat-carmel(IL).
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Lior's Blog](https://lioragami.medium.com/).
+- 📫 Read my blogs: [LinkedIn](https://www.linkedin.com/in/lior-agami/) || [Medium](https://lioragami.medium.com/).
 - 🎯 Portfolio site: [Portfolio](https://lior-dev.com).
 
 ## Get to know me better!! 😄
