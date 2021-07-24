@@ -36,7 +36,6 @@ In between, I'm also a father & a loving husband ❤.
 ## 🎯 Hello World!!
 - 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [LinkedIn](https://www.linkedin.com/in/lior-agami/) || [Medium](https://lioragami.medium.com/).
-- 🎯 Portfolio site: [Portfolio](https://lior-dev.com).
 
 ## 😄 Get to know me better!!
 - 🤖 I'm passionate about everything related to web development.
