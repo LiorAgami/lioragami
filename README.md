@@ -7,7 +7,7 @@
 
 I am Lior Agami.
 
-A Full-stack Web Developer, Living in Tirat-carmel(IL).
+Frontend Developer.
 
 Coding all day, all night.
 
@@ -15,6 +15,8 @@ In between, I'm also a father & a loving husband ❤.
 
 ## 👯 Communities
 * Currently writing posts and articles on LinkedIn & Medium.
+- 📫 Read my blogs: [LinkedIn](https://www.linkedin.com/in/lior-agami/) || [Medium](https://lioragami.medium.com/).
+
 
 ## ⚡ Technologies
 <img width="25px" align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/angular.svg" />
@@ -30,24 +32,4 @@ In between, I'm also a father & a loving husband ❤.
 <img width="25px" align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img width="25px" align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img width="25px" align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
-
-<br/>
-
-## 🎯 Hello World!!
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [LinkedIn](https://www.linkedin.com/in/lior-agami/) || [Medium](https://lioragami.medium.com/).
-
-## 😄 Get to know me better!!
-- 🤖 I'm passionate about everything related to web development.
-- 💪 GYM addict.
-- 💈 &nbsp;&nbsp;Men's Barber.
-- 🎸 Metallica's best fan.
-- 🏂 Pro snowboarder (at least I'd like to think..).
-- 🎼 Plays a guitar and sings as well.
-- 🎮 X-Gamer - family you know..
-- 👽 Used to fell asleep with the tv playing shopping channel.
-
-![Lior's github stats](https://github-readme-stats.vercel.app/api?username=lioragami&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lioragami.lioragami)
 
